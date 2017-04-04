@@ -170,7 +170,7 @@ We're done! To start the app, go back to your terminal on the root directory and
 node server.js
 ```
 Now open your browser and navigate to `localhost:3000` and you should see this:
-
+![screenshot](https://github.com/athenahacks/hackpack-web/blob/master/screenshot.png)
 
 #### Credit
 Built by Marsela Sulku, based on [this tutorial](http://www.galvanize.com/learn/learn-to-code/build-full-stack-app-40-minutes/)! 
