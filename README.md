@@ -10,10 +10,15 @@ Make sure you have the following installed:
  - [Atom](https://atom.io/) or other text editor
  - [Homebrew](http://brew.sh/): Homebrew is a package manager that makes it easy to install other packages. Install it by running the following command on your terminal:
 
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+    ```sh
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    ```
  - [Node](https://nodejs.org/en/): Install this using Homebrew by running the following command on your terminal:
 
- `brew install node`
+    ```sh 
+    brew install node
+    ```
  - [SQLite](https://www.sqlite.org/): SQLite is a file-based database. It is commonly used for development and testing and it's the easiest database to get started with. Install this using this command:
-
-`brew install sqlite3`
+    ```sh 
+    brew install sqlite3
+    ```
