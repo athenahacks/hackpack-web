@@ -163,6 +163,11 @@ Walkthrough of the code:
  - The `getIdeas()` function makes a get request to the `/ideas` route (the same as we created on `server.js` in order to get all the data. It then calls the `renderData()` function with the data that is returned from the database.
  - The `renderData()` function goes through all the data passed in as an arugment and appends it (or adds it) to the list on the home page. 
  
+#### Final Step! 
+Open your `index.html` file, and include the `client.js` file you just created in order to add the functionality to your static website. Do this by entering the following line of code right before the ending `</body>` tag:
+```sh
+<script type="text/javascript" src=/client.js></script>
+```
 
 ## Building and running the app 
 We're done! To start the app, go back to your terminal on the root directory and type: 
