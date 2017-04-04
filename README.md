@@ -171,3 +171,6 @@ node server.js
 ```
 Now open your browser and navigate to `localhost:3000` and you should see this:
 
+
+#### Credit
+Built by Marsela Sulku, based on [this tutorial](http://www.galvanize.com/learn/learn-to-code/build-full-stack-app-40-minutes/)! 
