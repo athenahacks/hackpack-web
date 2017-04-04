@@ -1,0 +1,30 @@
+body {
+  padding: 30px;
+  background-color: #84888a;
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  max-width: 90%;
+}
+
+input {
+  font-size: 1.2em;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px;
+  background-color: #0f5f74;
+  border: none;
+  color: #fff;
+}
+
+button:hover {
+  box-shadow: 3px 2px 3px #6a7988;
+}
